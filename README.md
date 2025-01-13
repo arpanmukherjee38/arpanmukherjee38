@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🏆 Achievements
 
-- **Open Source Contributions**: Contributed to various open-source projects, including [Project1](https://github.com/example/project1) and [Project2](https://github.com/example/project2).
+- **Open Source Contributions**: Contributed to various open-source projects, including [Project1]([https://github.com/example/project1](https://tojo.onrender.com)) and [Project2](https://arpanmukherjee38.github.io/-My-Portfolio/)
 - **Certifications**: Certified in AWS Solutions Architect, Google Data Engineer, and Microsoft Azure Developer.
 - **Hackathons**: Winner of Hackathon XYZ 2023 and Hackathon ABC 2024.
 
