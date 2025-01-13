@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📢 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/arpanmukherjee38/)
-- [Portfolio](https://arpanmukherjee38.dev)
+- [LinkedIn](https://www.linkedin.com/in/arpan-mukherjee-0198ba2a2)
+- [Portfolio](https://arpanmukherjee38.github.io/-My-Portfolio/)
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat.
