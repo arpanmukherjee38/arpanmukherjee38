@@ -93,6 +93,6 @@
 
 <p align="center">
   <!-- Contribution Graph Snake -->
-  <img src="https://github.com/arpanmukherjee38/arpanmukherjee38/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/arpanmukherjee38/arpanmukherjee38/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
