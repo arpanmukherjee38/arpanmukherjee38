@@ -24,13 +24,13 @@
 
 ### 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **Cyber Security**  
-- 🌱 Exploring **Advanced Machine Learning** & **Emerging Technologies**  
+- 🔭 I’m currently working on **Artificial Intelligence**  
+- 🌱 Exploring **Machine Learning** & **Deep Learning**  
 - 👯 Collaborating on: [TOJO](https://tojo.onrender.com)  
 - 🤝 Looking for help with: [C Programming](https://github.com/arpanmukherjee38/C-language.git)  
 - 👨‍💻 All my projects: [My Portfolio](https://arpanmukherjee38.github.io/-My-Portfolio/)  
 - 📝 I write articles on [Quantum Computing](https://www.dwavesys.com/learn/quantum-computing/)  
-- 💬 Ask me about **Python, ML, Data Analysis, Web Development**  
+- 💬 Ask me about **Python, ML, Data Analysis, Web Development, DSA**  
 - ⚡ Fun fact: *I love solving puzzles & playing chess ♟️*  
 
 ---
@@ -70,7 +70,7 @@
 
 ### 🚀 Featured Projects  
 
-- 🔹 [TOJO](https://tojo.onrender.com) – A collaboration platform  
+- 🔹 [TOJO](https://tojo.onrender.com) – A Chating platform  
 - 🔹 [C Programming Repository](https://github.com/arpanmukherjee38/C-language.git) – Learning & resources  
 - 🔹 [Portfolio Website](https://arpanmukherjee38.github.io/-My-Portfolio/) – Showcasing my work  
 
