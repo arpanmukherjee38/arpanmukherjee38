@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+    <img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow](https://raw.githubusercontent.com/arpanmukherjee38/arpanmukherjee38/main/assets/twitter.svg" width="256" alt="Twitter Icon)"/>
   </a>
   <a href="https://arpanmukherjee38.github.io/-My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
