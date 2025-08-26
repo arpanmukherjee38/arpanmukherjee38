@@ -27,10 +27,10 @@
 - 🔭 I’m currently working on **Artificial Intelligence**  
 - 🌱 Exploring **Machine Learning** & **Deep Learning**  
 - 👯 Collaborating on: [TOJO](https://tojo.onrender.com)  
-- 🤝 Looking for help with: [C Programming](https://github.com/arpanmukherjee38/C-language.git)  
+- 🤝 Looking for help with: [Retrieval_Augmented_Generation](https://github.com/arpanmukherjee38/RAG.git) 
 - 👨‍💻 All my projects: [My Portfolio](https://arpanmukherjee38.github.io/-My-Portfolio/)  
 - 📝 I write articles on [Quantum Computing](https://www.dwavesys.com/learn/quantum-computing/)  
-- 💬 Ask me about **Python, ML, Data Analysis, Web Development, DSA**  
+- 💬 Ask me about **Python, C, C++, ML, Data Analysis, Web Development, DSA**  
 - ⚡ Fun fact: *I love solving puzzles & playing chess ♟️*  
 
 ---
@@ -71,7 +71,7 @@
 ### 🚀 Featured Projects  
 
 - 🔹 [TOJO](https://tojo.onrender.com) – A Chating platform  
-- 🔹 [C Programming Repository](https://github.com/arpanmukherjee38/C-language.git) – Learning & resources  
+- 🔹 [Retrieval_Augmented_Generation Repository](https://github.com/arpanmukherjee38/RAG.git) – Learning & Open Source  
 - 🔹 [Portfolio Website](https://arpanmukherjee38.github.io/-My-Portfolio/) – Showcasing my work  
 
 ---
