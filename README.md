@@ -81,3 +81,18 @@
 </p>
 
 <h3 align="center">⚡ Building the Future, One Line of Code at a Time ⚡</h3>
+
+---
+
+### 🎉 Extras  
+
+<p align="center">
+  <!-- Visitor Counter -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arpanmukherjee38" alt="Visitor Counter"/>
+</p>
+
+<p align="center">
+  <!-- Contribution Graph Snake -->
+  <img src="https://github.com/arpanmukherjee38/arpanmukherjee38/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
+
