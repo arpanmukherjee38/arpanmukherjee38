@@ -1,4 +1,11 @@
 <h1 align="center">👋 Hi, I'm Arpan Mukherjee</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&lines=AI+Engineer;Robotics+Developer;Cyber+Security+Researcher;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">🚀 Crafting Intelligent Solutions for a Smarter Future</h3>
 
 <p align="center">
@@ -74,5 +81,3 @@
 </p>
 
 <h3 align="center">⚡ Building the Future, One Line of Code at a Time ⚡</h3>
-
-
