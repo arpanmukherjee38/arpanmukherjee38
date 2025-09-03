@@ -9,12 +9,8 @@
 <h3 align="center">🚀 Crafting Intelligent Solutions for a Smarter Future</h3>
 
 <p align="center">
-  <!-- Load Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-  <!-- Twitter (X) Icon -->
   <a href="https://twitter.com/" target="_blank">
-    <i class="fa-brands fa-x-twitter fa-2x"></i>
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40" alt="Twitter"/>
   </a>
 
   <a href="https://arpanmukherjee38.github.io/-My-Portfolio/" target="_blank">
@@ -25,6 +21,7 @@
     <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 
 ---
