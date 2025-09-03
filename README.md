@@ -12,18 +12,20 @@
   <!-- Load Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<!-- Twitter Icon -->
+  <!-- Twitter (X) Icon -->
   <a href="https://twitter.com/" target="_blank">
-    <i class="fa-brands fa-square-x-twitter fa-2x"></i>
+    <i class="fa-brands fa-x-twitter fa-2x"></i>
   </a>
 
   <a href="https://arpanmukherjee38.github.io/-My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+
   <a href="mailto:mukherjeearpan348@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
