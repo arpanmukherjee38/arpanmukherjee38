@@ -9,9 +9,14 @@
 <h3 align="center">🚀 Crafting Intelligent Solutions for a Smarter Future</h3>
 
 <p align="center">
+  <!-- Load Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- Twitter Icon -->
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://fontawesome.com/icons/square-x-twitter?f=brands&s=solid" width="256" alt="Twitter Icon"/>
+    <i class="fa-brands fa-square-x-twitter fa-2x"></i>
   </a>
+
   <a href="https://arpanmukherjee38.github.io/-My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
