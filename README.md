@@ -9,18 +9,22 @@
 <h3 align="center">🚀 Crafting Intelligent Solutions for a Smarter Future</h3>
 
 <p align="center">
+  <!-- Twitter Badge -->
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 
+  <!-- Portfolio Badge -->
   <a href="https://arpanmukherjee38.github.io/-My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 
+  <!-- Email Badge -->
   <a href="mailto:mukherjeearpan348@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 
 
