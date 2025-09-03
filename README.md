@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- Twitter Badge -->
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/@Arpan93727/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 
