@@ -40,7 +40,6 @@
 - 👯 Collaborating on: [TOJO](https://tojo.onrender.com)  
 - 🤝 Looking for help with: [Retrieval_Augmented_Generation](https://github.com/arpanmukherjee38/RAG.git) 
 - 👨‍💻 All my projects: [My Portfolio](https://arpanmukherjee38.github.io/-My-Portfolio/)  
-- 📝 I write articles on [Quantum Computing](https://www.dwavesys.com/learn/quantum-computing/)  
 - 💬 Ask me about **Python, C, C++, ML, Data Analysis, Web Development, DSA**  
 - ⚡ Fun fact: *I love solving puzzles & playing chess ♟️*  
 
