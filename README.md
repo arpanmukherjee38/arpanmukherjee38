@@ -38,7 +38,7 @@
 - 🔭 I’m currently working on **Artificial Intelligence**  
 - 🌱 Exploring **Machine Learning** & **Deep Learning**  
 - 👯 Collaborating on: [TOJO](https://tojo.onrender.com)  
-- 🤝 Looking for help with: [Retrieval_Augmented_Generation](https://github.com/arpanmukherjee38/RAG.git) 
+- 🤝 Looking for help with: [Retrieval_Augmented_Generation](https://studysummraizer.streamlit.app/) 
 - 👨‍💻 All my projects: [My Portfolio](https://arpanmukherjee38.github.io/-My-Portfolio/)  
 - 💬 Ask me about **Python, C, C++, ML, Data Analysis, Web Development, DSA**  
 - ⚡ Fun fact: *I love solving puzzles & playing chess ♟️*  
