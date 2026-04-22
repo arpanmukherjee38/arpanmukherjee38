@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Arpan%20Mukherjee&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Robotics%20%26%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=60&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Arpan%20Mukherjee&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Robotics%20%26amp%3B%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 
 </div>
 
