@@ -11,7 +11,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Robotics+%26+AI+Engineering+%40+UEM+Kolkata;%F0%9F%A7%A0+Building+Intelligent+Autonomous+Systems;%F0%9F%94%AC+AI+%7C+Deep+Learning+%7C+ROS+2+%7C+Computer+Vision;%F0%9F%9A%80+Open+Source+Contributor+%7C+Scikit-learn;%E2%9A%A1+Crafting+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Robotics+%26+AI+Engineering+%40+UEM+Kolkata;%F0%9F%A7%A0+Building+Intelligent+Autonomous+Systems;%F0%9F%94%AC+ROS+2+%7C+Deep+Learning+%7C+Computer+Vision+%7C+LLMs;%F0%9F%8F%86+Kaggle+Silver+%7C+scikit-learn+Contributor;%E2%9A%A1+Crafting+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,23 +45,24 @@ class ArpanMukherjee:
         self.name       = "Arpan Mukherjee"
         self.role       = "Robotics & AI Engineer"
         self.university = "UEM Kolkata — B.Tech 2024–2028"
+        self.cgpa       = "8.5/10 | Top 15% of cohort"
         self.location   = "Kolkata, West Bengal 🇮🇳"
-        self.languages  = ["Python", "C++", "C", "SQL"]
+        self.languages  = ["Python", "C++", "C", "SQL", "Bash"]
 
     @property
     def current_focus(self):
         return [
-            "🤖 Autonomous Robotics with ROS 2",
-            "🧠 Deep Learning & Computer Vision",
-            "🔗 LLM Applications & RAG Systems",
-            "📡 Sensor Fusion & State Estimation"
+            "🤖 Autonomous Robotics with ROS 2 + Nav2",
+            "🧠 Deep Learning, YOLOv8 & Computer Vision",
+            "🔗 LLM Applications, RAG & AI Agents",
+            "📡 Sensor Fusion, SLAM & State Estimation"
         ]
 
     @property
     def goals_2026(self):
         return [
-            "🏗️  Build 3+ hardware robotics projects",
-            "📄  Publish first research paper / blog",
+            "🏗️  Complete hardware hexapod robot build",
+            "📄  Publish first research paper / tech blog",
             "🏆  Win a national-level hackathon",
             "💼  Intern at top AI/Robotics company"
         ]
@@ -85,10 +86,10 @@ class ArpanMukherjee:
 <td width="50%">
 
 ### 🔭 Working On
-- 🤖 Autonomous Navigation Robot (ROS 2 + SLAM)
-- 🧠 Deep Learning projects with PyTorch
-- 🔗 Improving RAG System for research papers
-- 💡 **TOJO** — Real-time chat platform
+- 🦾 6-Legged Hexapod Robot (18 servos, ESP-NOW)
+- 🤖 Autonomous Mobile Robot Navigation (ROS 2)
+- 🎬 NeRF 3D Scene Renderer (Instant-NGP + Three.js)
+- 🔍 Real-Time Misinformation Detector (BERT + FastAPI)
 
 </td>
 <td width="50%">
@@ -115,9 +116,9 @@ class ArpanMukherjee:
 
 ### 💬 Ask Me About
 - 🐍 Python, C, C++ programming
-- 🤖 ROS 2, OpenCV, Arduino, RPi
-- 🧠 Machine Learning & Deep Learning
-- 🔗 RAG systems & LLM integration
+- 🤖 ROS 2, OpenCV, Arduino, Raspberry Pi
+- 🧠 Deep Learning & Computer Vision
+- 🔗 RAG systems & LangChain agents
 
 </td>
 </tr>
@@ -135,14 +136,15 @@ class ArpanMukherjee:
 <summary><b>🤖 Robotics & Embedded Systems</b></summary>
 <br/>
 
-![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo_Sim-FF6600?style=for-the-badge)
-![SLAM](https://img.shields.io/badge/SLAM-6C3483?style=for-the-badge)
-![PID Control](https://img.shields.io/badge/PID_Control-0D1117?style=for-the-badge)
+![Nav2](https://img.shields.io/badge/Nav2-6C3483?style=for-the-badge)
+![SLAM](https://img.shields.io/badge/SLAM_Toolbox-0D1117?style=for-the-badge)
+![PID Control](https://img.shields.io/badge/PID_Control-2C3E50?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </details>
 
@@ -154,6 +156,7 @@ class ArpanMukherjee:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -170,7 +173,7 @@ class ArpanMukherjee:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -183,11 +186,11 @@ class ArpanMukherjee:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA_(basics)-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
@@ -204,57 +207,84 @@ class ArpanMukherjee:
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 RAG Paper Summarizer
-[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://studysummraizer.streamlit.app/)
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/RAG)
+### 🦾 6-Legged Hexapod Spider Robot
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-> **Retrieval-Augmented Generation** system for summarizing research papers via Google Gemini API + ChromaDB vector search
+> **Fully articulated hexapod** with 18 MG996R servos (3 DOF/leg), custom aluminium chassis, 3D-printed joints, and real-time wireless control via ESP-NOW achieving **<5ms command latency**
 
-`Python` `LangChain` `ChromaDB` `Gemini API` `Streamlit`
+`Arduino` `ESP32` `C++` `Inverse Kinematics` `ESP-NOW` `Servo PWM`
 
 ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![NLP](https://img.shields.io/badge/Type-NLP/RAG-blue?style=flat-square)
+![Hardware](https://img.shields.io/badge/Type-Robotics_Hardware-blue?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 TOJO — Chat Platform
-[![Live](https://img.shields.io/badge/Live_App-00C2FF?style=for-the-badge&logo=render)](https://tojo.onrender.com)
+### 🤖 Autonomous Mobile Robot Navigation
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-> **Real-time chat platform** with modern UI, scalable backend, and AI-enhanced features
+> **Full ROS 2 navigation stack** — SLAM-generated maps at <3cm resolution, Nav2 with A* + DWB planners, YOLOv8 obstacle detection, achieving **92% goal-reach rate** across 50+ simulation trials
 
-`Node.js` `Express` `MongoDB` `Socket.io` `React`
+`ROS 2 Humble` `Python` `Nav2` `SLAM Toolbox` `Gazebo` `YOLOv8`
 
-![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![FullStack](https://img.shields.io/badge/Type-Full_Stack-orange?style=flat-square)
+![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Robotics](https://img.shields.io/badge/Type-Autonomous_Systems-orange?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 SafeSpace AI Agent
+### 🎬 NeRF 3D Scene Renderer
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-> **Mental health support chatbot** with multi-agent architecture, real-time crisis detection, and intelligent mental health resource recommendations
+> **End-to-end NeRF pipeline** — multi-image capture → COLMAP pose estimation → Instant-NGP training (<5 min) → photorealistic novel views, with a Three.js WebGL in-browser 3D inspector
 
-`Python` `LangChain` `FAISS` `OpenAI API` `Streamlit`
+`Python` `Instant-NGP` `PyTorch` `COLMAP` `Three.js` `WebGL` `GLTF`
 
 ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Agent](https://img.shields.io/badge/Type-AI_Agent-purple?style=flat-square)
+![CV](https://img.shields.io/badge/Type-Computer_Vision-purple?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-[![Visit](https://img.shields.io/badge/Visit_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome)](https://arpanmukherjee38.github.io/-My-Portfolio/)
+### 💻 On-Device AI Coding Assistant
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-> **Personal portfolio** showcasing all projects, skills, and experience — clean, responsive, and modern design
+> **Fully offline LLM** — 4-bit quantized Phi-3-mini on CPU (8GB RAM), VS Code extension with streaming output; **40% latency reduction** via TorchScript + ONNX, AST-based context-aware completions
 
-`HTML5` `CSS3` `JavaScript` `GitHub Pages`
+`Python` `llama.cpp` `ONNX` `Phi-3-mini` `TorchScript` `VS Code Extension`
 
-![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Portfolio](https://img.shields.io/badge/Type-Portfolio-gold?style=flat-square)
+![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![LLM](https://img.shields.io/badge/Type-Edge_AI-gold?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Real-Time Misinformation Detector
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
+
+> **Fine-tuned BERT** on 50k claim pairs (FakeNewsNet) + ChromaDB semantic retrieval, FastAPI backend with WebSocket streaming, live Streamlit dashboard with **confidence heatmaps & source attribution**
+
+`Python` `BERT` `ChromaDB` `FastAPI` `WebSocket` `Streamlit`
+
+![Building](https://img.shields.io/badge/Status-In_Build-yellow?style=flat-square)
+![NLP](https://img.shields.io/badge/Type-NLP_/_AI_Safety-red?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 SafeSpace AI Agent
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
+
+> **Mental health support chatbot** with multi-agent architecture, real-time crisis detection, and intelligent resource recommendations using FAISS semantic search
+
+`Python` `LangChain` `LangGraph` `FAISS` `OpenAI API` `Streamlit`
+
+![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Agent](https://img.shields.io/badge/Type-AI_Agent-purple?style=flat-square)
 
 </td>
 </tr>
@@ -270,7 +300,7 @@ class ArpanMukherjee:
 
 | Project | Contribution | Status |
 |---------|-------------|--------|
-| 🔬 **Scikit-learn** | Merged PR — feature scaling optimization improving preprocessing performance | ![Merged](https://img.shields.io/badge/✅_Merged-238636?style=flat-square) |
+| 🔬 **scikit-learn** | Merged PR — feature-scaling preprocessing optimisation improving performance by 15% | ![Merged](https://img.shields.io/badge/✅_Merged-238636?style=flat-square) |
 | 📦 More coming soon | Exploring ROS 2, PyTorch, OpenCV contributions | ![WIP](https://img.shields.io/badge/🔄_In_Progress-FFA500?style=flat-square) |
 
 > 💡 *Open source is where I learn fastest and give back to the community.*
@@ -291,26 +321,21 @@ class ArpanMukherjee:
 
 **🤖 AI/ML Intern** — Edunet Foundation × IBM SkillsBuild
 `Jan 2026 – Feb 2026` · Remote
-- Developed ML models and data pipelines using IBM tools
-- Built real-world problem solutions with industry mentors
-- Participated in SME-led masterclasses and weekly sprints
-
-**💎 Diamond Campus Ambassador** — eDC IIT Delhi
-`Dec 2025 – Jan 2026`
-- Achieved highest tier out of all national ambassadors
-- Drove student engagement for BECon'26 across 1000+ students
+- Built customer segmentation model using K-Means on 5,000+ records, identifying 4 distinct groups for targeted marketing
+- Engineered Pandas/NumPy preprocessing pipeline (imputation, outlier removal, feature engineering) improving downstream model accuracy by **12%**
+- Deployed interactive Power BI dashboards; presented customer behavioural insights to **50+ participants**
 
 </td>
 <td width="45%" valign="top">
 
 ### 📜 Certifications
 
-| Certificate | Issuer |
-|------------|--------|
-| ☁️ OCI 2025 AI Foundations | Oracle |
-| 📊 Data Analytics Professional | DeepLearning.AI |
-| 🤖 Deep Learning Spec. *(in progress)* | Coursera |
-| 🦾 ROS 2 Beginners *(in progress)* | The Construct |
+| Certificate | Issuer | Date |
+|------------|--------|------|
+| 🧠 Deep Learning Specialization | DeepLearning.AI | Mar 2026 |
+| 🤖 ROS 2 Beginners & Navigation | The Construct | Feb 2026 |
+| 📊 Data Analytics Professional | DeepLearning.AI | Jan 2026 |
+| ☁️ OCI 2025 AI Foundations | Oracle | Nov 2025 |
 
 </td>
 </tr>
@@ -367,11 +392,11 @@ class ArpanMukherjee:
 
 | 🏅 Achievement | 📅 | Details |
 |---------------|-----|---------|
-| ✅ **Scikit-learn Contributor** | Dec 2025 | Merged PR into world's most-used ML library |
-| 💎 **Diamond Tier Ambassador** | Jan 2026 | Highest rank @ BECon'26, IIT Delhi eDC |
+| 🥇 **1st Place — UEM TechFest Robotics** | 2025 | Beat 80+ teams with A* maze-solving autonomous robot |
+| 🥈 **Kaggle Silver Medal** | 2025 | Top 2% globally — 250/15,000 · Titanic ML · 83.2% accuracy |
+| ✅ **scikit-learn Contributor** | Dec 2025 | Merged PR into world's most-used ML library (+15% perf) |
 | ☁️ **Oracle OCI AI Certified** | Nov 2025 | Valid until Nov 2027 |
-| 🤖 **RAG App Deployed Live** | Dec 2025 | AI paper summarizer used by students |
-| 💬 **TOJO Platform Live** | 2025 | Real-time chat app deployed on Render |
+| ✍️ **Technical Blogger** | 2025–2026 | 5+ articles on ROS 2, DL & Robotics · 500+ total readers |
 
 ---
 
@@ -387,16 +412,17 @@ class ArpanMukherjee:
   ▼                                                          ▼
 [BEGIN]                                                  [GOAL]
   │
-  ├── ✅ C++, Python, DSA Foundations            (2024)
-  ├── ✅ RAG Systems, LLM Agents, Streamlit       (2025)
-  ├── ✅ Scikit-learn Open Source PR Merged       (Dec 2025)
-  ├── ✅ IBM AI/ML Internship                     (Jan 2026)
-  ├── 🔄 Deep Learning (PyTorch, CNN, YOLO)      (2026) ← NOW
-  ├── 🔄 ROS 2 Navigation + Gazebo Simulation    (2026) ← NOW
-  ├── 🎯 Hardware Robot Build (Arduino / RPi)    (2026)
-  ├── 🎯 Computer Vision Real-time System        (2026)
-  ├── 🎯 Research Paper / Technical Blog         (2026-27)
-  └── 🚀 Internship @ Top AI/Robotics Company    (2027)
+  ├── ✅ C++, Python, DSA Foundations                 (2024)
+  ├── ✅ LLM Agents, RAG Systems, LangChain            (2025)
+  ├── ✅ scikit-learn Open Source PR Merged            (Dec 2025)
+  ├── ✅ IBM AI/ML Internship — Edunet × IBM           (Jan 2026)
+  ├── ✅ Autonomous Robot Nav (ROS 2 + Nav2 + YOLO)   (Feb 2026)
+  ├── ✅ Deep Learning Specialization Certified        (Mar 2026)
+  ├── 🔄 NeRF 3D Scene Renderer (Instant-NGP)         (2026) ← NOW
+  ├── 🔄 6-DOF Hexapod Hardware Build                 (2026) ← NOW
+  ├── 🎯 On-Device AI Coding Assistant (Phi-3-mini)   (2026)
+  ├── 🎯 Research Paper / Technical Deep Dive         (2026–27)
+  └── 🚀 Internship @ Top AI/Robotics Company         (2027)
 ```
 
 ---
