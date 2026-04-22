@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arpan%20Mukherjee&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Arpan%20Mukherjee&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Robotics%20%26%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 
 </div>
 
@@ -459,7 +459,7 @@ I'm open to collaborating on **robotics builds**, **AI research**, **open source
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 <div align="center">
 
