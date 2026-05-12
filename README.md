@@ -45,7 +45,6 @@ class ArpanMukherjee:
         self.name       = "Arpan Mukherjee"
         self.role       = "Robotics & AI Engineer"
         self.university = "UEM Kolkata — B.Tech 2024–2028"
-        self.cgpa       = "8.5/10 | Top 15% of cohort"
         self.location   = "Kolkata, West Bengal 🇮🇳"
         self.languages  = ["Python", "C++", "C", "SQL", "Bash"]
 
@@ -392,8 +391,6 @@ class ArpanMukherjee:
 
 | 🏅 Achievement | 📅 | Details |
 |---------------|-----|---------|
-| 🥇 **1st Place — UEM TechFest Robotics** | 2025 | Beat 80+ teams with A* maze-solving autonomous robot |
-| 🥈 **Kaggle Silver Medal** | 2025 | Top 2% globally — 250/15,000 · Titanic ML · 83.2% accuracy |
 | ✅ **scikit-learn Contributor** | Dec 2025 | Merged PR into world's most-used ML library (+15% perf) |
 | ☁️ **Oracle OCI AI Certified** | Nov 2025 | Valid until Nov 2027 |
 | ✍️ **Technical Blogger** | 2025–2026 | 5+ articles on ROS 2, DL & Robotics · 500+ total readers |
