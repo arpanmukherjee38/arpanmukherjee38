@@ -4,14 +4,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arpan%20Mukherjee&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Arpan%20Mukherjee&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Robotics%20and%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Robotics+%26+AI+Engineering+%40+UEM+Kolkata;%F0%9F%A7%A0+Building+Intelligent+Autonomous+Systems;%F0%9F%94%AC+ROS+2+%7C+Deep+Learning+%7C+Multi-Agent+Systems;%F0%9F%8F%86+Kaggle+Silver+%7C+scikit-learn+Contributor;%E2%9A%A1+Crafting+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Robotics+and+AI+Engineering+%40+UEM+Kolkata;%F0%9F%A7%A0+Building+Intelligent+Autonomous+Systems;%F0%9F%94%AC+ROS+2+%7C+Deep+Learning+%7C+Multi-Agent+Systems;%F0%9F%8F%86+Kaggle+Silver+%7C+scikit-learn+Contributor;%E2%9A%A1+Crafting+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
@@ -350,14 +350,14 @@ class ArpanMukherjee:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpanmukherjee38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanmukherjee38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arpanmukherjee38&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=ffffff&amp;rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanmukherjee38&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff&amp;langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanmukherjee38&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanmukherjee38&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00D9FF&amp;fire=FF6B6B&amp;currStreakLabel=00D9FF" height="165"/>
 
 </div>
 
@@ -457,7 +457,7 @@ I'm open to collaborating on **robotics builds**, **AI research**, **open source
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 <div align="center">
 
