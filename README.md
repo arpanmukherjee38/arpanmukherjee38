@@ -4,14 +4,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Arpan%20Mukherjee&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Robotics%20%26amp%3B%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=60&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arpan%20Mukherjee&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Robotics+%26+AI+Engineering+%40+UEM+Kolkata;%F0%9F%A7%A0+Building+Intelligent+Autonomous+Systems;%F0%9F%94%AC+ROS+2+%7C+Deep+Learning+%7C+Computer+Vision+%7C+LLMs;%F0%9F%8F%86+Kaggle+Silver+%7C+scikit-learn+Contributor;%E2%9A%A1+Crafting+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Robotics+%26+AI+Engineering+%40+UEM+Kolkata;%F0%9F%A7%A0+Building+Intelligent+Autonomous+Systems;%F0%9F%94%AC+ROS+2+%7C+Deep+Learning+%7C+Multi-Agent+Systems;%F0%9F%8F%86+Kaggle+Silver+%7C+scikit-learn+Contributor;%E2%9A%A1+Crafting+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,9 +52,9 @@ class ArpanMukherjee:
     def current_focus(self):
         return [
             "🤖 Autonomous Robotics with ROS 2 + Nav2",
-            "🧠 Deep Learning, YOLOv8 & Computer Vision",
-            "🔗 LLM Applications, RAG & AI Agents",
-            "📡 Sensor Fusion, SLAM & State Estimation"
+            "🧠 Multi-Agent Systems & RAG Architectures",
+            "⚙️ Distributed ML & Systems Engineering",
+            "🛡️ Privacy-Preserving AI (Federated Learning)"
         ]
 
     @property
@@ -87,16 +87,16 @@ class ArpanMukherjee:
 ### 🔭 Working On
 - 🦾 6-Legged Hexapod Robot (18 servos, ESP-NOW)
 - 🤖 Autonomous Mobile Robot Navigation (ROS 2)
-- 🎬 NeRF 3D Scene Renderer (Instant-NGP + Three.js)
-- 🔍 Real-Time Misinformation Detector (BERT + FastAPI)
+- 🧠 Multi-Agent AI Research Assistant (RAG)
+- ⚙️ Distributed ML Training Architectures
 
 </td>
 <td width="50%">
 
 ### 🌱 Learning
 - 📐 Robot Kinematics & Control Theory
-- 🎯 YOLOv8 for real-time object detection
-- ⚙️  MuJoCo & Gazebo simulation
+- 🛡️ Federated Learning & Differential Privacy
+- ⚙️ LLM Integration for Code Security
 - 🔢 Linear Algebra deep dive for ML
 
 </td>
@@ -107,7 +107,7 @@ class ArpanMukherjee:
 ### 🤝 Open to Collaborate
 - 🤖 Robotics simulations & hardware builds
 - 🧪 AI/ML research & open-source projects
-- 💬 LLM-powered applications & AI agents
+- 💬 Multi-Agent LLM systems
 - 🌍 Impactful social good tech
 
 </td>
@@ -116,8 +116,8 @@ class ArpanMukherjee:
 ### 💬 Ask Me About
 - 🐍 Python, C, C++ programming
 - 🤖 ROS 2, OpenCV, Arduino, Raspberry Pi
-- 🧠 Deep Learning & Computer Vision
-- 🔗 RAG systems & LangChain agents
+- 🧠 Deep Learning, Agents & RAG Frameworks
+- 🔗 PyTorch DistributedDataParallel
 
 </td>
 </tr>
@@ -234,56 +234,56 @@ class ArpanMukherjee:
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 NeRF 3D Scene Renderer
+### 🧠 Multi-Agent AI Research Assistant
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-> **End-to-end NeRF pipeline** — multi-image capture → COLMAP pose estimation → Instant-NGP training (<5 min) → photorealistic novel views, with a Three.js WebGL in-browser 3D inspector
+> **Automated Paper Summarizer** — Multi-agent system utilizing RAG and the Google Gemini API to orchestrate complex document retrieval, synthesis, and deep analytical reasoning for academic research.
 
-`Python` `Instant-NGP` `PyTorch` `COLMAP` `Three.js` `WebGL` `GLTF`
+`Python` `Gemini API` `LangGraph` `RAG` `Vector Databases`
 
 ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![CV](https://img.shields.io/badge/Type-Computer_Vision-purple?style=flat-square)
+![Agent](https://img.shields.io/badge/Type-Multi_Agent_AI-purple?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 On-Device AI Coding Assistant
+### ⚙️ Distributed ML Training
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-> **Fully offline LLM** — 4-bit quantized Phi-3-mini on CPU (8GB RAM), VS Code extension with streaming output; **40% latency reduction** via TorchScript + ONNX, AST-based context-aware completions
+> **Scalable training architecture** — Built a distributed training framework using PyTorch DistributedDataParallel (DDP) to sync gradients across containerized GPU nodes, reducing large-dataset training time.
 
-`Python` `llama.cpp` `ONNX` `Phi-3-mini` `TorchScript` `VS Code Extension`
+`PyTorch` `CUDA` `Docker` `DDP` `Python`
 
 ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![LLM](https://img.shields.io/badge/Type-Edge_AI-gold?style=flat-square)
+![ML](https://img.shields.io/badge/Type-Distributed_ML-gold?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Real-Time Misinformation Detector
+### 🔍 Code Vulnerability Scanner + LLM
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-> **Fine-tuned BERT** on 50k claim pairs (FakeNewsNet) + ChromaDB semantic retrieval, FastAPI backend with WebSocket streaming, live Streamlit dashboard with **confidence heatmaps & source attribution**
+> **AI-Augmented Security** — Tool parsing code ASTs to identify vulnerabilities, combining static analysis with LLM reasoning to auto-generate and suggest secure refactored patches for CI/CD pipelines.
 
-`Python` `BERT` `ChromaDB` `FastAPI` `WebSocket` `Streamlit`
+`Python` `LLMs` `AST Parsing` `Static Analysis` `Security`
 
 ![Building](https://img.shields.io/badge/Status-In_Build-yellow?style=flat-square)
-![NLP](https://img.shields.io/badge/Type-NLP_/_AI_Safety-red?style=flat-square)
+![Security](https://img.shields.io/badge/Type-AI_Security-red?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 SafeSpace AI Agent
+### 🛡️ Federated Learning + Privacy ML
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-> **Mental health support chatbot** with multi-agent architecture, real-time crisis detection, and intelligent resource recommendations using FAISS semantic search
+> **Privacy-Preserving Training** — Implemented FedAvg to simulate local edge training while centralising securely aggregated weights, enforcing differential privacy bounds.
 
-`Python` `LangChain` `LangGraph` `FAISS` `OpenAI API` `Streamlit`
+`Python` `PyTorch` `Federated Learning` `Differential Privacy`
 
 ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Agent](https://img.shields.io/badge/Type-AI_Agent-purple?style=flat-square)
+![Privacy](https://img.shields.io/badge/Type-Privacy_AI-blue?style=flat-square)
 
 </td>
 </tr>
@@ -415,9 +415,10 @@ class ArpanMukherjee:
   ├── ✅ IBM AI/ML Internship — Edunet × IBM           (Jan 2026)
   ├── ✅ Autonomous Robot Nav (ROS 2 + Nav2 + YOLO)   (Feb 2026)
   ├── ✅ Deep Learning Specialization Certified        (Mar 2026)
-  ├── 🔄 NeRF 3D Scene Renderer (Instant-NGP)         (2026) ← NOW
+  ├── 🔄 Multi-Agent Paper Summarizer & RAG System    (2026) ← NOW
   ├── 🔄 6-DOF Hexapod Hardware Build                 (2026) ← NOW
-  ├── 🎯 On-Device AI Coding Assistant (Phi-3-mini)   (2026)
+  ├── 🎯 Distributed ML & Federated Learning          (2026)
+  ├── 🎯 Code Vulnerability Scanner + LLM             (2026)
   ├── 🎯 Research Paper / Technical Deep Dive         (2026–27)
   └── 🚀 Internship @ Top AI/Robotics Company         (2027)
 ```
@@ -456,7 +457,7 @@ I'm open to collaborating on **robotics builds**, **AI research**, **open source
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
 
