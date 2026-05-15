@@ -235,7 +235,7 @@ class ArpanMukherjee:
 <td width="50%" valign="top">
 
 ### 🧠 Multi-Agent AI Research Assistant
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/research_assistant.git)
 
 > **Automated Paper Summarizer** — Multi-agent system utilizing RAG and the Google Gemini API to orchestrate complex document retrieval, synthesis, and deep analytical reasoning for academic research.
 
@@ -300,7 +300,6 @@ class ArpanMukherjee:
 | Project | Contribution | Status |
 |---------|-------------|--------|
 | 🔬 **scikit-learn** | Merged PR — feature-scaling preprocessing optimisation improving performance by 15% | ![Merged](https://img.shields.io/badge/✅_Merged-238636?style=flat-square) |
-| 📦 More coming soon | Exploring ROS 2, PyTorch, OpenCV contributions | ![WIP](https://img.shields.io/badge/🔄_In_Progress-FFA500?style=flat-square) |
 
 > 💡 *Open source is where I learn fastest and give back to the community.*
 
@@ -398,34 +397,6 @@ class ArpanMukherjee:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               JOURNEY TIMELINE                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🗺️ Robotics & AI Journey
-
-```
-2024 ─────────────────────────────────────────────────── 2028
-  │                                                          │
-  ▼                                                          ▼
-[BEGIN]                                                  [GOAL]
-  │
-  ├── ✅ C++, Python, DSA Foundations                 (2024)
-  ├── ✅ LLM Agents, RAG Systems, LangChain            (2025)
-  ├── ✅ scikit-learn Open Source PR Merged            (Dec 2025)
-  ├── ✅ IBM AI/ML Internship — Edunet × IBM           (Jan 2026)
-  ├── ✅ Autonomous Robot Nav (ROS 2 + Nav2 + YOLO)   (Feb 2026)
-  ├── ✅ Deep Learning Specialization Certified        (Mar 2026)
-  ├── 🔄 Multi-Agent Paper Summarizer & RAG System    (2026) ← NOW
-  ├── 🔄 6-DOF Hexapod Hardware Build                 (2026) ← NOW
-  ├── 🎯 Distributed ML & Federated Learning          (2026)
-  ├── 🎯 Code Vulnerability Scanner + LLM             (2026)
-  ├── 🎯 Research Paper / Technical Deep Dive         (2026–27)
-  └── 🚀 Internship @ Top AI/Robotics Company         (2027)
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONNECT                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -438,7 +409,7 @@ class ArpanMukherjee:
 I'm open to collaborating on **robotics builds**, **AI research**, **open source**, and anything that makes a real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-mukherjee-0198ba2a2)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpanmukherjee38.github.io/-My-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpanmukherjee38.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukherjeearpan381@gmail.com)
 
 </div>
