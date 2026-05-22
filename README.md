@@ -261,7 +261,8 @@ class ArpanMukherjee:
 
 </td>
 <td width="50%" valign="top">
-
+</tr>
+</table>
 
 
 ---
