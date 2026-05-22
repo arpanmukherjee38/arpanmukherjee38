@@ -203,6 +203,7 @@ class ArpanMukherjee:
 <tr>
 <td width="50%" valign="top">
 
+
 ### 🦾 4-Legged Quandruped Spider Robot
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/4-Legged_Quandruped_Spider_Robot.git)
 
@@ -215,6 +216,8 @@ class ArpanMukherjee:
 
 </td>
 <td width="50%" valign="top">
+
+
 
 ### 🤖 Autonomous Mobile Robot Navigation
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
@@ -231,6 +234,7 @@ class ArpanMukherjee:
 <tr>
 <td width="50%" valign="top">
 
+
 ### 🧠 Multi-Agent AI Research Assistant
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/research_assistant.git)
 
@@ -243,6 +247,7 @@ class ArpanMukherjee:
 
 </td>
 <td width="50%" valign="top">
+
 
 ### 🔍 Code Vulnerability Scanner + LLM
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
@@ -257,7 +262,12 @@ class ArpanMukherjee:
 </td>
 <td width="50%" valign="top">
 
+
+
 ---
+
+
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--              OPEN SOURCE CONTRIBUTIONS                    -->
