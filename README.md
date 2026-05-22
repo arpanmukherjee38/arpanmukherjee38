@@ -204,7 +204,7 @@ class ArpanMukherjee:
 <td width="50%" valign="top">
 
 ### 🦾 4-Legged Quandruped Spider Robot
-[![Repo](https://github.com/arpanmukherjee38/4-Legged_Quandruped_Spider_Robot.git)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/4-Legged_Quandruped_Spider_Robot.git)
 
 > **Fully articulated Quandruped** with 12 MG996R servos (3 DOF/leg), custom aluminium chassis, 3D-printed joints, and real-time wireless control via ESP-NOW achieving **<5ms command latency**
 
