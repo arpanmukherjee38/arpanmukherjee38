@@ -53,16 +53,13 @@ class ArpanMukherjee:
         return [
             "🤖 Autonomous Robotics with ROS 2 + Nav2",
             "🧠 Multi-Agent Systems & RAG Architectures",
-            "⚙️ Distributed ML & Systems Engineering",
-            "🛡️ Privacy-Preserving AI (Federated Learning)"
         ]
 
     @property
     def goals_2026(self):
         return [
-            "🏗️  Complete hardware hexapod robot build",
+            "🏗️  Complete hardware Quandruped robot build",
             "📄  Publish first research paper / tech blog",
-            "🏆  Win a national-level hackathon",
             "💼  Intern at top AI/Robotics company"
         ]
 
@@ -85,7 +82,7 @@ class ArpanMukherjee:
 <td width="50%">
 
 ### 🔭 Working On
-- 🦾 6-Legged Hexapod Robot (18 servos, ESP-NOW)
+- 🦾 4-Legged Robot (12 servos, ESP-NOW)
 - 🤖 Autonomous Mobile Robot Navigation (ROS 2)
 - 🧠 Multi-Agent AI Research Assistant (RAG)
 - ⚙️ Distributed ML Training Architectures
@@ -206,10 +203,10 @@ class ArpanMukherjee:
 <tr>
 <td width="50%" valign="top">
 
-### 🦾 6-Legged Hexapod Spider Robot
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
+### 🦾 4-Legged Quandruped Spider Robot
+[![Repo](https://github.com/arpanmukherjee38/4-Legged_Quandruped_Spider_Robot.git)
 
-> **Fully articulated hexapod** with 18 MG996R servos (3 DOF/leg), custom aluminium chassis, 3D-printed joints, and real-time wireless control via ESP-NOW achieving **<5ms command latency**
+> **Fully articulated Quandruped** with 12 MG996R servos (3 DOF/leg), custom aluminium chassis, 3D-printed joints, and real-time wireless control via ESP-NOW achieving **<5ms command latency**
 
 `Arduino` `ESP32` `C++` `Inverse Kinematics` `ESP-NOW` `Servo PWM`
 
@@ -247,21 +244,6 @@ class ArpanMukherjee:
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Distributed ML Training
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
-
-> **Scalable training architecture** — Built a distributed training framework using PyTorch DistributedDataParallel (DDP) to sync gradients across containerized GPU nodes, reducing large-dataset training time.
-
-`PyTorch` `CUDA` `Docker` `DDP` `Python`
-
-![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![ML](https://img.shields.io/badge/Type-Distributed_ML-gold?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔍 Code Vulnerability Scanner + LLM
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
@@ -274,20 +256,6 @@ class ArpanMukherjee:
 
 </td>
 <td width="50%" valign="top">
-
-### 🛡️ Federated Learning + Privacy ML
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
-
-> **Privacy-Preserving Training** — Implemented FedAvg to simulate local edge training while centralising securely aggregated weights, enforcing differential privacy bounds.
-
-`Python` `PyTorch` `Federated Learning` `Differential Privacy`
-
-![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Privacy](https://img.shields.io/badge/Type-Privacy_AI-blue?style=flat-square)
-
-</td>
-</tr>
-</table>
 
 ---
 
