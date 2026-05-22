@@ -18,7 +18,6 @@
 <!-- SOCIAL BADGES -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge)](https://arpanmukherjee38.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-mukherjee-0198ba2a2)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@Arpan93727/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukherjeearpan381@gmail.com)
