@@ -387,7 +387,7 @@ class ArpanMukherjee:
 I'm open to collaborating on **robotics builds**, **AI research**, **open source**, and anything that makes a real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-mukherjee-0198ba2a2)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpanmukherjee38.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/arpanmukherjee38)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukherjeearpan381@gmail.com)
 
 </div>
