@@ -59,11 +59,10 @@ class ArpanMukherjee:
         return [
             "🏗️  Complete hardware Quandruped robot build",
             "📄  Publish first research paper / tech blog",
-            "💼  Intern at top AI/Robotics company"
         ]
 
     def fun_facts(self):
-        return "♟️ Chess player | 🧩 Puzzle solver | 🌐 Open source advocate"
+        return "♟️ Chess player | 🧩 Puzzle solver | 🌐 Open source contribute"
 ```
 
 <br clear="right"/>
@@ -84,7 +83,7 @@ class ArpanMukherjee:
 - 🦾 4-Legged Robot (12 servos, ESP-NOW)
 - 🤖 Autonomous Mobile Robot Navigation (ROS 2)
 - 🧠 Multi-Agent AI Research Assistant (RAG)
-- ⚙️ Distributed ML Training Architectures
+- ⚙️ LLM Integration for Code Security
 
 </td>
 <td width="50%">
@@ -92,8 +91,7 @@ class ArpanMukherjee:
 ### 🌱 Learning
 - 📐 Robot Kinematics & Control Theory
 - 🛡️ Federated Learning & Differential Privacy
-- ⚙️ LLM Integration for Code Security
-- 🔢 Linear Algebra deep dive for ML
+- ⚙️ Distributed ML Training Architectures
 
 </td>
 </tr>
@@ -113,7 +111,6 @@ class ArpanMukherjee:
 - 🐍 Python, C, C++ programming
 - 🤖 ROS 2, OpenCV, Arduino, Raspberry Pi
 - 🧠 Deep Learning, Agents & RAG Frameworks
-- 🔗 PyTorch DistributedDataParallel
 
 </td>
 </tr>
@@ -131,7 +128,7 @@ class ArpanMukherjee:
 <summary><b>🤖 Robotics & Embedded Systems</b></summary>
 <br/>
 
-![ROS2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
