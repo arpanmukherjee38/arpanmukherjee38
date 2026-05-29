@@ -212,7 +212,7 @@ class ArpanMukherjee:
 
 
 ### 🤖 Autonomous Mobile Robot Navigation
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/Autonomous-Mobile-Robot-Navigation.git)
 
 > **Full ROS 2 navigation stack** — SLAM-generated maps at <3cm resolution, Nav2 with A* + DWB planners, YOLOv8 obstacle detection, achieving **92% goal-reach rate** across 50+ simulation trials
 
