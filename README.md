@@ -3,9 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arpan%20Mukherjee&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer%20%7C%20Mechanistic%20Interpretability%20%7C%20Autonomous%20Systems&descAlignY=60&descSize=17" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arpan%20Mukherjee&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Robotics%20and%20AI%20Engineer%20%7C%20Mechanistic%20Interpretability%20%7C%20Autonomous%20Systems&descAlignY=60&descSize=17" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
