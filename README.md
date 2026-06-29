@@ -4,24 +4,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Arpan%20Mukherjee&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Robotics%20and%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=60&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arpan%20Mukherjee&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer%20%7C%20Mechanistic%20Interpretability%20%7C%20Autonomous%20Systems&descAlignY=60&descSize=17" width="100%"/>
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Robotics+and+AI+Engineering+%40+UEM+Kolkata;%F0%9F%A7%A0+Building+Intelligent+Autonomous+Systems;%F0%9F%94%AC+ROS+2+%7C+Deep+Learning+%7C+Multi-Agent+Systems;%F0%9F%8F%86+Kaggle+Silver+%7C+scikit-learn+Contributor;%E2%9A%A1+Crafting+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+Robotics+%26+AI+Engineering+%40+UEM+Kolkata;🔬+Mechanistic+Interpretability+%7C+Transformer+Circuits;🧠+GPT-2+Activation+Patching+%7C+IOI+Circuit+Research;🏆+scikit-learn+Contributor+%7C+GSSoC+'26+%7C+TSSC+2026;⚡+Building+Intelligent+Systems%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
 <!-- SOCIAL BADGES -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-mukherjee-0198ba2a2)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@Arpan93727/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-mukherjee38)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukherjeearpan381@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpanmukherjee38)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpanmukherjee38.github.io/My-Portfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arpanmukherjee38&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/arpanmukherjee38?style=for-the-badge&color=0D1117&label=FOLLOWERS)
@@ -34,35 +34,48 @@
 <!--                    ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 ## 🧬 About Me
 
 ```python
 class ArpanMukherjee:
     def __init__(self):
-        self.name       = "Arpan Mukherjee"
-        self.role       = "Robotics & AI Engineer"
-        self.university = "UEM Kolkata — B.Tech 2024–2028"
-        self.location   = "Kolkata, West Bengal 🇮🇳"
-        self.languages  = ["Python", "C++", "C", "SQL", "Bash"]
+        self.name        = "Arpan Mukherjee"
+        self.role        = "Robotics & AI Engineer"
+        self.university  = "UEM Kolkata — B.Tech RAI 2024–2028"
+        self.cgpa        = "8.0 / 10.0"
+        self.location    = "Kolkata, West Bengal 🇮🇳"
+        self.languages   = ["Python", "C++", "C", "SQL"]
 
     @property
-    def current_focus(self):
+    def research_focus(self):
         return [
-            "🤖 Autonomous Robotics with ROS 2 + Nav2",
-            "🧠 Multi-Agent Systems & RAG Architectures",
+            "🔬 Mechanistic Interpretability of Transformer Models",
+            "🤖 Autonomous Locomotion & Embedded Robotics",
+            "🧠 LLM Agents, RAG Architectures & NLP",
         ]
 
     @property
-    def goals_2026(self):
+    def current_research(self):
+        return {
+            "project"  : "Transformer Internals Visualizer",
+            "model"    : "GPT-2 Small (117M parameters)",
+            "method"   : "Activation patching · IOI circuit replication",
+            "goal"     : ">85% circuit faithfulness on held-out prompts",
+        }
+
+    @property
+    def highlights(self):
         return [
-            "🏗️  Complete hardware Quandruped robot build",
-            "📄  Publish first research paper / tech blog",
+            "✅ Merged PR → scikit-learn (#32677) — +15% pipeline perf",
+            "✅ Bug-fix PR → SecuScan GSSoC '26 (#320)",
+            "📄 Peer-reviewed paper presented @ TSSC 2026, UEM Kolkata",
+            "🏢 AI/ML Intern — Edunet Foundation × IBM SkillsBuild",
         ]
 
     def fun_facts(self):
-        return "♟️ Chess player | 🧩 Puzzle solver | 🌐 Open source contribute"
+        return "♟️ Chess player | 🧩 Puzzle solver | 🌐 Open source contributor"
 ```
 
 <br clear="right"/>
@@ -70,28 +83,28 @@ class ArpanMukherjee:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 WHAT I'M UP TO                            -->
+<!--                 RESEARCH INTERESTS                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## ⚡ What I'm Up To
+## 🔭 Research Interests & Current Work
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔭 Working On
-- 🦾 4-Legged Robot (12 servos, ESP-NOW)
-- 🤖 Autonomous Mobile Robot Navigation (ROS 2)
-- 🧠 Multi-Agent AI Research Assistant (RAG)
-- ⚙️ LLM Integration for Code Security
+### 🔬 Active Research
+- 🧠 **Mechanistic Interpretability** — Probing attention circuits in GPT-2 via activation patching & logit-lens analysis
+- 🦾 **Embodied AI** — Bio-inspired gait algorithms on low-cost embedded hardware
+- 🛡️ **AI-Augmented Security** — LLM-based vulnerability detection + patch generation
 
 </td>
 <td width="50%">
 
-### 🌱 Learning
-- 📐 Robot Kinematics & Control Theory
-- 🛡️ Federated Learning & Differential Privacy
-- ⚙️ Distributed ML Training Architectures
+### 🌱 Learning & Exploring
+- 📐 Algorithmic Foundations of Optimization
+- 🤝 Multi-Agent LLM Systems & RAG Architectures
+- 🛰️ Federated Learning & Differential Privacy
+- ⚙️ Distributed ML Training at Scale
 
 </td>
 </tr>
@@ -99,18 +112,19 @@ class ArpanMukherjee:
 <td width="50%">
 
 ### 🤝 Open to Collaborate
+- 🔬 AI/ML research & interpretability projects
 - 🤖 Robotics simulations & hardware builds
-- 🧪 AI/ML research & open-source projects
-- 💬 Multi-Agent LLM systems
-- 🌍 Impactful social good tech
+- 🌍 Open-source contributions with real-world impact
+- 💬 NLP, computer vision, autonomous systems
 
 </td>
 <td width="50%">
 
 ### 💬 Ask Me About
-- 🐍 Python, C, C++ programming
-- 🤖 ROS 2, OpenCV, Arduino, Raspberry Pi
-- 🧠 Deep Learning, Agents & RAG Frameworks
+- 🐍 Python, C, C++ — algorithms & systems
+- 🔬 TransformerLens, activation patching, IOI circuits
+- 🤖 Arduino, ESP32, servo PWM, ESP-NOW
+- 🧠 Deep Learning, RAG, LangGraph agents
 
 </td>
 </tr>
@@ -125,34 +139,41 @@ class ArpanMukherjee:
 ## 🛠️ Tech Stack & Tools
 
 <details open>
-<summary><b>🤖 Robotics & Embedded Systems</b></summary>
+<summary><b>🔬 ML / Deep Learning / Research</b></summary>
 <br/>
 
-![ROS2](https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo_Sim-FF6600?style=for-the-badge)
-![Nav2](https://img.shields.io/badge/Nav2-6C3483?style=for-the-badge)
-![SLAM](https://img.shields.io/badge/SLAM_Toolbox-0D1117?style=for-the-badge)
-![PID Control](https://img.shields.io/badge/PID_Control-2C3E50?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![TransformerLens](https://img.shields.io/badge/TransformerLens-6C3483?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🧠 AI / ML / Deep Learning</b></summary>
+<summary><b>🤖 LLM Agents & NLP</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0064C8?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🦾 Robotics & Embedded Systems</b></summary>
+<br/>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo_Sim-FF6600?style=for-the-badge)
+![Nav2](https://img.shields.io/badge/Nav2-6C3483?style=for-the-badge)
+![SLAM](https://img.shields.io/badge/SLAM_Toolbox-0D1117?style=for-the-badge)
 
 </details>
 
@@ -160,26 +181,26 @@ class ArpanMukherjee:
 <summary><b>💻 Languages & Systems</b></summary>
 <br/>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<summary><b>📊 Data Science & Visualization</b></summary>
 <br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
 
@@ -195,44 +216,72 @@ class ArpanMukherjee:
 <tr>
 <td width="50%" valign="top">
 
+### 🧠 Transformer Internals Visualizer
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
 
-### 🦾 4-Legged Quandruped Spider Robot
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/4-Legged_Quandruped_Spider_Robot.git)
+> **Research:** How do attention heads in GPT-2 Small (117M params) encode grammatical roles like indirect object identification (IOI)?
+>
+> Activation patching on 500+ IOI sentence structures · Replicating Wang et al. (2022) circuit-finding methodology · Targeting >85% faithfulness on held-out prompts · Layer-by-layer logit-lens dashboard
 
-> **Fully articulated Quandruped** with 12 MG996R servos (3 DOF/leg), custom aluminium chassis, 3D-printed joints, and real-time wireless control via ESP-NOW achieving **<5ms command latency**
+`Python` `PyTorch` `TransformerLens` `GPT-2` `Plotly` `Mechanistic Interpretability`
 
-`Arduino` `ESP32` `C++` `Inverse Kinematics` `ESP-NOW` `Servo PWM`
-
-![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Hardware](https://img.shields.io/badge/Type-Robotics_Hardware-blue?style=flat-square)
+![In Progress](https://img.shields.io/badge/Status-In_Progress-blue?style=flat-square)
+![Research](https://img.shields.io/badge/Type-ML_Research-purple?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
+### 🦾 4-Legged Quadruped Spider Robot
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/4-Legged_Quandruped_Spider_Robot.git)
 
+> **Research:** Can bio-inspired gait algorithms on low-cost embedded hardware achieve stable multi-terrain locomotion with <5ms wireless latency?
+>
+> 12 MG996R servos · 3 DOF/leg · Custom aluminium chassis · Sub-5ms ESP-NOW command latency validated across 50+ timed trials · **Published at TSSC 2026**
 
-### 🤖 Autonomous Mobile Robot Navigation
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/Autonomous-Mobile-Robot-Navigation.git)
+`Arduino` `ESP32` `C++` `ESP-NOW` `Servo PWM` `Inverse Kinematics`
 
-> **Full ROS 2 navigation stack** — SLAM-generated maps at <3cm resolution, Nav2 with A* + DWB planners, YOLOv8 obstacle detection, achieving **92% goal-reach rate** across 50+ simulation trials
-
-`ROS 2 Humble` `Python` `Nav2` `SLAM Toolbox` `Gazebo` `YOLOv8`
-
-![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Robotics](https://img.shields.io/badge/Type-Autonomous_Systems-orange?style=flat-square)
+![Published](https://img.shields.io/badge/Status-Published-brightgreen?style=flat-square)
+![Hardware](https://img.shields.io/badge/Type-Robotics_Hardware-blue?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 Autonomous Mobile Robot Navigation
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/Autonomous-Mobile-Robot-Navigation.git)
 
-### 🧠 Multi-Agent AI Research Assistant
+> **Full ROS 2 navigation stack** — SLAM-generated maps at <3cm resolution · Nav2 with A* + DWB planners · YOLOv8 obstacle detection · **92% goal-reach rate** across 50+ simulation trials
+
+`ROS 2` `Python` `Nav2` `SLAM Toolbox` `Gazebo` `YOLOv8`
+
+![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Robotics](https://img.shields.io/badge/Type-Autonomous_Systems-orange?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 AI-Augmented Code Vulnerability Scanner
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
+
+> AST traversal detects structural vulnerabilities · LLM-based patch-generation loop · **1,000+ files/min** throughput in benchmarked evaluation · Integrated into DevOps CI/CD pipelines
+
+`Python` `AST Parsing` `FastAPI` `LLMs` `Static Analysis` `CI/CD`
+
+![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Security](https://img.shields.io/badge/Type-AI_Security-red?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Multi-Agent AI Research Assistant
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38/research_assistant.git)
 
-> **Automated Paper Summarizer** — Multi-agent system utilizing RAG and the Google Gemini API to orchestrate complex document retrieval, synthesis, and deep analytical reasoning for academic research.
+> Multi-agent RAG system using LangGraph + Gemini API · Orchestrates document retrieval, synthesis, and analytical reasoning for academic research workflows
 
-`Python` `Gemini API` `LangGraph` `RAG` `Vector Databases`
+`Python` `LangGraph` `RAG` `ChromaDB` `FAISS` `Gemini API`
 
 ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![Agent](https://img.shields.io/badge/Type-Multi_Agent_AI-purple?style=flat-square)
@@ -240,27 +289,19 @@ class ArpanMukherjee:
 </td>
 <td width="50%" valign="top">
 
+### 📊 Customer Segmentation — IBM SkillsBuild
+> K-Means clustering on 5,000+ records · Systematically compared k ∈ {3,4,5,6} via silhouette scores · Identified 4 optimal clusters · **+12% downstream model accuracy** · **+18% projected campaign conversion** · Interactive Power BI dashboards presented to 50+ participants
 
-### 🔍 Code Vulnerability Scanner + LLM
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/arpanmukherjee38)
+`Python` `Scikit-learn` `Pandas` `NumPy` `Power BI` `K-Means`
 
-> **AI-Augmented Security** — Tool parsing code ASTs to identify vulnerabilities, combining static analysis with LLM reasoning to auto-generate and suggest secure refactored patches for CI/CD pipelines.
-
-`Python` `LLMs` `AST Parsing` `Static Analysis` `Security`
-
-![Building](https://img.shields.io/badge/Status-In_Build-yellow?style=flat-square)
-![Security](https://img.shields.io/badge/Type-AI_Security-red?style=flat-square)
+![Completed](https://img.shields.io/badge/Status-Completed-gray?style=flat-square)
+![Industry](https://img.shields.io/badge/Type-Industry_Internship-yellow?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
 </tr>
 </table>
 
-
 ---
-
-
-
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--              OPEN SOURCE CONTRIBUTIONS                    -->
@@ -268,11 +309,29 @@ class ArpanMukherjee:
 
 ## 🌍 Open Source Contributions
 
-| Project | Contribution | Status |
-|---------|-------------|--------|
-| 🔬 **scikit-learn** | Merged PR — feature-scaling preprocessing optimisation improving performance by 15% | ![Merged](https://img.shields.io/badge/✅_Merged-238636?style=flat-square) |
+| Project | Contribution | Impact | Status |
+|---------|-------------|--------|--------|
+| 🔬 **scikit-learn** | PR #32677 — Feature-scaling preprocessing optimization | +15% pipeline throughput across benchmark datasets | ![Merged](https://img.shields.io/badge/✅_Merged-238636?style=flat-square) |
+| 🛡️ **SecuScan (GSSoC '26)** | PR #320 — SQLite variable-limit bug fix + regression tests | Fixed silent data corruption; tests approved after maintainer review | ![Confirmed](https://img.shields.io/badge/✅_Confirmed-238636?style=flat-square) |
 
-> 💡 *Open source is where I learn fastest and give back to the community.*
+> 💡 *Open source is where research meets real-world engineering. I contribute to projects I actually use.*
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            PUBLICATION & PRESENTATION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📄 Publication & Presentation
+
+| | Details |
+|---|---|
+| **Title** | Bluetooth-Enabled 3D Printed Quadruped Spider Robot on Arduino Nano |
+| **Authors** | S. Banerjee, A. Ghosh, S. Bhadra, R. Saha, P. Das, **A. Mukherjee** |
+| **Venue** | 1st International Conference on Transformative Social Sciences **(TSSC 2026)**, UEM Kolkata |
+| **Date** | February 2026 |
+| **Type** | Peer-reviewed conference paper · Certificate awarded |
+| **Contribution** | Algorithmic gait design, wireless control architecture, hardware fabrication |
 
 ---
 
@@ -290,25 +349,42 @@ class ArpanMukherjee:
 
 **🤖 AI/ML Intern** — Edunet Foundation × IBM SkillsBuild
 `Jan 2026 – Feb 2026` · Remote
-- Built customer segmentation model using K-Means on 5,000+ records, identifying 4 distinct groups for targeted marketing
-- Engineered Pandas/NumPy preprocessing pipeline (imputation, outlier removal, feature engineering) improving downstream model accuracy by **12%**
-- Deployed interactive Power BI dashboards; presented customer behavioural insights to **50+ participants**
+
+- Empirical study on customer segmentation: K-Means on 5,000+ records, comparing k ∈ {3,4,5,6} via silhouette scores → 4 optimal clusters → projected **+18% campaign conversion uplift**
+- Engineered preprocessing pipeline (imputation, IQR outlier removal, PCA feature engineering) → **+12% downstream model accuracy** vs unprocessed baseline
+- Deployed Power BI dashboards presenting behavioural insights to **50+ participants**
 
 </td>
 <td width="45%" valign="top">
 
 ### 📜 Certifications
 
-| Certificate | Issuer | Date |
+| Certificate | Issuer | Year |
 |------------|--------|------|
-| 🧠 Deep Learning Specialization | DeepLearning.AI | Mar 2026 |
+| 🧠 Machine Learning Specialization | Stanford × DeepLearning.AI | 2025 |
+| 📊 Data Analytics Professional | DeepLearning.AI | 2025 |
+| 🤖 Deep Learning Specialization | DeepLearning.AI | Mar 2026 |
 | 🤖 ROS 2 Beginners & Navigation | The Construct | Feb 2026 |
-| 📊 Data Analytics Professional | DeepLearning.AI | Jan 2026 |
 | ☁️ OCI 2025 AI Foundations | Oracle | Nov 2025 |
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ACHIEVEMENTS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🎯 Achievements
+
+| 🏅 Achievement | 📅 | Details |
+|---------------|-----|---------|
+| ✅ **scikit-learn Contributor** | Dec 2025 | Merged PR into one of the world's most-used ML libraries — +15% pipeline performance |
+| ✅ **GSSoC '26 Contributor** | 2026 | Bug-fix PR confirmed for SecuScan; regression tests approved by maintainer |
+| 📄 **Conference Author** | Feb 2026 | Peer-reviewed paper accepted & presented at TSSC 2026, UEM Kolkata |
+| ☁️ **Oracle OCI AI Certified** | Nov 2025 | Valid until Nov 2027 |
 
 ---
 
@@ -320,14 +396,14 @@ class ArpanMukherjee:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpanmukherjee38&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=ffffff&amp;rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanmukherjee38&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff&amp;langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arpanmukherjee38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanmukherjee38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanmukherjee38&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00D9FF&amp;fire=FF6B6B&amp;currStreakLabel=00D9FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanmukherjee38&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="165"/>
 
 </div>
 
@@ -338,10 +414,6 @@ class ArpanMukherjee:
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  TROPHIES                                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
@@ -354,20 +426,6 @@ class ArpanMukherjee:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--              ACHIEVEMENTS TABLE                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🎯 Achievements
-
-| 🏅 Achievement | 📅 | Details |
-|---------------|-----|---------|
-| ✅ **scikit-learn Contributor** | Dec 2025 | Merged PR into world's most-used ML library (+15% perf) |
-| ☁️ **Oracle OCI AI Certified** | Nov 2025 | Valid until Nov 2027 |
-| ✍️ **Technical Blogger** | 2025–2026 | 5+ articles on ROS 2, DL & Robotics · 500+ total readers |
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONNECT                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -375,11 +433,11 @@ class ArpanMukherjee:
 
 <div align="center">
 
-> *"The best way to predict the future is to build it — one commit at a time."*
+> *"The best research combines rigorous methodology with the courage to ask questions no one has thought to ask yet."*
 
-I'm open to collaborating on **robotics builds**, **AI research**, **open source**, and anything that makes a real-world impact.
+I'm open to collaborating on **mechanistic interpretability research**, **robotics builds**, **AI agents**, **open source**, and anything that advances science or makes a real-world impact.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-mukherjee-0198ba2a2)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-mukherjee38)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpanmukherjee38.github.io/My-Portfolio/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukherjeearpan381@gmail.com)
 
@@ -399,7 +457,7 @@ I'm open to collaborating on **robotics builds**, **AI research**, **open source
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
 
