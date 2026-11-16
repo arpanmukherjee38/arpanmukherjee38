@@ -93,10 +93,5 @@ I work at the intersection of **Embodied AI, Robotics Control, and Production LL
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arpanmukherjee38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Arpan's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanmukherjee38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanmukherjee38&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </div>
